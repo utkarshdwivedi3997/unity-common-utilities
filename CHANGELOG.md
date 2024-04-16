@@ -1,0 +1,11 @@
+# 1.0.0
+- Added Pooling Utilities
+  - StaticPool: Uses List<T> internally, cannot change size after initialization
+  - DynamicPool: Uses List<T> internally, can change size after initialization
+  - ArrayStackPool: Uses a stack made of a C# array, cannot change size after initialization
+  - QueuePool: Not fully functional yet.
+- Added array based DataStructures:
+  - CircularQueue<T>
+  - CircularStack<T>
+- Added DDOL (DontDestroyOnLoad) MonoBehaviour
+- Added Utilities script with common utiltiies and extension methods, as well as binary serialization for saving and loading
