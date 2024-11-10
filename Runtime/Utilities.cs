@@ -8,6 +8,31 @@ using UnityEngine;
 namespace Utkarsh.UnityCore
 {
     /// <summary>
+    /// Class with useful math extension functions.
+    /// </summary>
+    public static class MathExtensions
+    {
+        public static Vector3 DivideBy(this float value, Vector3 vec)
+        {
+            return new Vector3(value / vec.x, value / vec.y, value / vec.x);
+        }
+        public static Vector3 Reciprocal(this Vector3 vec)
+        {
+            return (1.0f).DivideBy(vec);
+        }
+
+        public static Vector2 DivideBy(this float value, Vector2 vec)
+        {
+            return new Vector2(value / vec.x, value / vec.y);
+        }
+
+        public static Vector2 Reciprocal(this Vector2 vec)
+        {
+            return (1.0f).DivideBy(vec);
+        }
+    }
+
+    /// <summary>
     /// General utilities script.
     /// Consists of static functions that are needed a lot
     /// </summary>

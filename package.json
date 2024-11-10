@@ -1,6 +1,6 @@
 {
   "name": "com.utkarshdwivedi.unity-common-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Common Utilities",
   "description": "This package contains a bunch of useful Unity utility scripts that are needed by pretty much every Unity project",
   "unity": "2021.3",
