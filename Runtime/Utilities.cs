@@ -202,6 +202,16 @@ namespace Utkarsh.UnityCore
             int j = Array.IndexOf<T>(Arr, src) - 1;
             return (j < 0) ? Arr[Arr.Length - 1] : Arr[j];
         }
+
+        /// <summary>
+        /// Returns a random Vector3 within the specified from - to ranges
+        /// </summary>
+        public static Vector3 RandomRange(Vector3 from, Vector3 to)
+        {
+            return new Vector3(UnityEngine.Random.Range(from.x, to.x),
+                                UnityEngine.Random.Range(from.y, to.y),
+                                UnityEngine.Random.Range(from.z, to.z));
+        }
     }
 
     /// <summary>
