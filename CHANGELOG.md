@@ -1,3 +1,7 @@
+# 1.0.2
+- Added Shader Utility functions that help with building compute buffers for sending data to GPU
+  - `public static ComputeBuffer BuildComputeBuffer<T>(T[] data)`
+  - `public static ComputeBuffer BuildComputeBuffer<T>(T data)`
 # 1.0.1
 - Added Helper Math Functions
   - DivideBy(this float value, Vector3 vec) - divides a float by a Vector3 and returns a Vector3
