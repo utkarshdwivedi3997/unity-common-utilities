@@ -1,0 +1,117 @@
+{
+  "api/Utkarsh.UnityCore.BinarySerializer.html": {
+    "href": "api/Utkarsh.UnityCore.BinarySerializer.html",
+    "title": "Class BinarySerializer | Unity Common Utilities | 1.0.2",
+    "keywords": "Class BinarySerializer Namespace Utkarsh.UnityCore This class is to serialize DataContract values to Binary format! We used DataContractSerializer to save files instead of simply using BinaryFormatters, because we were getting a bunch of exceptions and I don't know why. public static class BinarySerializer Inheritance object BinarySerializer Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CopyTextToClipboard(string) Copies this string to the system wide clipboard public static void CopyTextToClipboard(this string str) Parameters str string Deserialize<T>(byte[]) https://stackoverflow.com/a/10502856 public static T Deserialize<T>(byte[] arrBytes) Parameters arrBytes byte[] Returns T Type Parameters T Serialize<T>(T) https://stackoverflow.com/a/10502856 public static byte[] Serialize<T>(T obj) Parameters obj T Returns byte[] Type Parameters T"
+  },
+  "api/Utkarsh.UnityCore.DDOL.html": {
+    "href": "api/Utkarsh.UnityCore.DDOL.html",
+    "title": "Class DDOL | Unity Common Utilities | 1.0.2",
+    "keywords": "Class DDOL Namespace Utkarsh.UnityCore public class DDOL : MonoBehaviour Inheritance object DDOL"
+  },
+  "api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html": {
+    "href": "api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html",
+    "title": "Class CircularQueue<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class CircularQueue<T> Namespace Utkarsh.UnityCore.DataStructures public class CircularQueue<T> Type Parameters T Inheritance object CircularQueue<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors CircularQueue(int, OverflowMode) public CircularQueue(int maxSize, OverflowMode mode = OverflowMode.DisallowPushing) Parameters maxSize int mode OverflowMode Fields Mode public OverflowMode Mode Field Value OverflowMode Properties HasItems public bool HasItems { get; } Property Value bool Head public int Head { get; } Property Value int Tail public int Tail { get; } Property Value int Methods Clear() public void Clear() Delete() public T Delete() Returns T Insert(T) public void Insert(T item) Parameters item T"
+  },
+  "api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html": {
+    "href": "api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html",
+    "title": "Class CircularStack<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class CircularStack<T> Namespace Utkarsh.UnityCore.DataStructures public class CircularStack<T> Type Parameters T Inheritance object CircularStack<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors CircularStack(int, OverflowMode) public CircularStack(int maxSize, OverflowMode mode = OverflowMode.DisallowPushing) Parameters maxSize int mode OverflowMode Fields Mode public OverflowMode Mode Field Value OverflowMode Properties HasItems public bool HasItems { get; } Property Value bool Head public int Head { get; } Property Value int Methods Clear() public void Clear() Peek() public T Peek() Returns T Pop() public T Pop() Returns T Push(T) public void Push(T item) Parameters item T"
+  },
+  "api/Utkarsh.UnityCore.DataStructures.OverflowMode.html": {
+    "href": "api/Utkarsh.UnityCore.DataStructures.OverflowMode.html",
+    "title": "Enum OverflowMode | Unity Common Utilities | 1.0.2",
+    "keywords": "Enum OverflowMode Namespace Utkarsh.UnityCore.DataStructures public enum OverflowMode Extension Methods Utilities.Next<T>(T) Utilities.Previous<T>(T) Fields DisallowPushing = 0 When max size is hit, no more items can't be added ReplaceOldItems = 1 When max size is hit, the first item at head is replaced by the new item"
+  },
+  "api/Utkarsh.UnityCore.DataStructures.html": {
+    "href": "api/Utkarsh.UnityCore.DataStructures.html",
+    "title": "Namespace Utkarsh.UnityCore.DataStructures | Unity Common Utilities | 1.0.2",
+    "keywords": "Namespace Utkarsh.UnityCore.DataStructures Classes CircularQueue<T> CircularStack<T> Enums OverflowMode"
+  },
+  "api/Utkarsh.UnityCore.MathExtensions.html": {
+    "href": "api/Utkarsh.UnityCore.MathExtensions.html",
+    "title": "Class MathExtensions | Unity Common Utilities | 1.0.2",
+    "keywords": "Class MathExtensions Namespace Utkarsh.UnityCore Class with useful math extension functions. public static class MathExtensions Inheritance object MathExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Abs(Vector2) public static Vector2 Abs(this Vector2 vec) Parameters vec Vector2 Returns Vector2 Abs(Vector3) public static Vector3 Abs(this Vector3 vec) Parameters vec Vector3 Returns Vector3 DivideBy(float, Vector2) public static Vector2 DivideBy(this float value, Vector2 vec) Parameters value float vec Vector2 Returns Vector2 DivideBy(float, Vector3) public static Vector3 DivideBy(this float value, Vector3 vec) Parameters value float vec Vector3 Returns Vector3 Reciprocal(Vector2) public static Vector2 Reciprocal(this Vector2 vec) Parameters vec Vector2 Returns Vector2 Reciprocal(Vector3) public static Vector3 Reciprocal(this Vector3 vec) Parameters vec Vector3 Returns Vector3"
+  },
+  "api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html",
+    "title": "Class ArrayStackPool<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class ArrayStackPool<T> Namespace Utkarsh.UnityCore.Pooling public class ArrayStackPool<T> : IPool<T> Type Parameters T Inheritance object ArrayStackPool<T> Implements IPool<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors ArrayStackPool(Func<T>, int) public ArrayStackPool(Func<T> create, int maxSize) Parameters create Func<T> maxSize int ArrayStackPool(T[]) public ArrayStackPool(T[] objects) Parameters objects T[] Methods ForEach(Action<T>) public void ForEach(Action<T> function) Parameters function Action<T> GetPooledObject() public T GetPooledObject() Returns T ReturnToPool(T) public void ReturnToPool(T toReturn) Parameters toReturn T"
+  },
+  "api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html",
+    "title": "Class DynamicPool<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class DynamicPool<T> Namespace Utkarsh.UnityCore.Pooling Similar to StaticPool<T>, but this can grow in capacity similar to Lists in case it runs out of items. public class DynamicPool<T> : IPool<T> Type Parameters T Inheritance object DynamicPool<T> Implements IPool<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors DynamicPool(Func<T>, int) public DynamicPool(Func<T> create, int initialSize) Parameters create Func<T> initialSize int Methods ForEach(Action<T>) public void ForEach(Action<T> function) Parameters function Action<T> GetPooledObject() public T GetPooledObject() Returns T ReturnToPool(T) public void ReturnToPool(T toReturn) Parameters toReturn T"
+  },
+  "api/Utkarsh.UnityCore.Pooling.IPool-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.IPool-1.html",
+    "title": "Interface IPool<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Interface IPool<T> Namespace Utkarsh.UnityCore.Pooling public interface IPool<T> Type Parameters T Methods GetPooledObject() T GetPooledObject() Returns T ReturnToPool(T) void ReturnToPool(T obj) Parameters obj T"
+  },
+  "api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html",
+    "title": "Interface IPooledObject<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Interface IPooledObject<T> Namespace Utkarsh.UnityCore.Pooling public interface IPooledObject<T> Type Parameters T Methods RegisterToPool(IPool<T>) void RegisterToPool(IPool<T> pool) Parameters pool IPool<T>"
+  },
+  "api/Utkarsh.UnityCore.Pooling.QueuePool-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.QueuePool-1.html",
+    "title": "Class QueuePool<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class QueuePool<T> Namespace Utkarsh.UnityCore.Pooling public class QueuePool<T> : IPool<T> Type Parameters T Inheritance object QueuePool<T> Implements IPool<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors QueuePool(Func<T>, int) public QueuePool(Func<T> create, int maxSize) Parameters create Func<T> maxSize int QueuePool(T[]) public QueuePool(T[] objects) Parameters objects T[] Methods ForEach(Action<T>) public void ForEach(Action<T> function) Parameters function Action<T> GetPooledObject() public T GetPooledObject() Returns T ReturnToPool(T) public void ReturnToPool(T obj) Parameters obj T"
+  },
+  "api/Utkarsh.UnityCore.Pooling.StaticPool-1.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.StaticPool-1.html",
+    "title": "Class StaticPool<T> | Unity Common Utilities | 1.0.2",
+    "keywords": "Class StaticPool<T> Namespace Utkarsh.UnityCore.Pooling public class StaticPool<T> : IPool<T> Type Parameters T Inheritance object StaticPool<T> Implements IPool<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors StaticPool(List<T>) public StaticPool(List<T> objects) Parameters objects List<T> StaticPool(Func<T>, int) public StaticPool(Func<T> create, int maxSize) Parameters create Func<T> maxSize int Methods ForEach(Action<T>) public void ForEach(Action<T> function) Parameters function Action<T> GetPooledObject() public T GetPooledObject() Returns T ReturnToPool(T) public void ReturnToPool(T toReturn) Parameters toReturn T"
+  },
+  "api/Utkarsh.UnityCore.Pooling.html": {
+    "href": "api/Utkarsh.UnityCore.Pooling.html",
+    "title": "Namespace Utkarsh.UnityCore.Pooling | Unity Common Utilities | 1.0.2",
+    "keywords": "Namespace Utkarsh.UnityCore.Pooling Classes ArrayStackPool<T> DynamicPool<T> Similar to StaticPool<T>, but this can grow in capacity similar to Lists in case it runs out of items. QueuePool<T> StaticPool<T> Interfaces IPool<T> IPooledObject<T>"
+  },
+  "api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html": {
+    "href": "api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html",
+    "title": "Class ShaderUtility | Unity Common Utilities | 1.0.2",
+    "keywords": "Class ShaderUtility Namespace Utkarsh.UnityCore.ShaderUtils Class that contains useful functions for writing shaders. public static class ShaderUtility Inheritance object ShaderUtility Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods BuildComputeBuffer<T>(T) Get a ComputeBuffer filled with the provided data. public static ComputeBuffer BuildComputeBuffer<T>(T data) where T : struct Parameters data T Returns ComputeBuffer Type Parameters T BuildComputeBuffer<T>(T[]) Get a ComputeBuffer filled with the provided data. public static ComputeBuffer BuildComputeBuffer<T>(T[] data) where T : struct Parameters data T[] Returns ComputeBuffer Type Parameters T"
+  },
+  "api/Utkarsh.UnityCore.ShaderUtils.html": {
+    "href": "api/Utkarsh.UnityCore.ShaderUtils.html",
+    "title": "Namespace Utkarsh.UnityCore.ShaderUtils | Unity Common Utilities | 1.0.2",
+    "keywords": "Namespace Utkarsh.UnityCore.ShaderUtils Classes ShaderUtility Class that contains useful functions for writing shaders."
+  },
+  "api/Utkarsh.UnityCore.Utilities.html": {
+    "href": "api/Utkarsh.UnityCore.Utilities.html",
+    "title": "Class Utilities | Unity Common Utilities | 1.0.2",
+    "keywords": "Class Utilities Namespace Utkarsh.UnityCore General utilities script. Consists of static functions that are needed a lot public static class Utilities Inheritance object Utilities Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Fields MILLISECONDS_IN_SECOND public const int MILLISECONDS_IN_SECOND = 1000 Field Value int Methods ByteArrayToObject(byte[]) Converts a byte array to a System.Object object public static object ByteArrayToObject(byte[] arrBytes) Parameters arrBytes byte[] Returns object FindAllIndexOfConditionMet<T>(IEnumerable<T>, Func<T, bool>) Takes a list and a predicate and returns indices of all elements that meet the condition specified in the predicate. public static List<int> FindAllIndexOfConditionMet<T>(this IEnumerable<T> list, Func<T, bool> predicate) Parameters list IEnumerable<T> predicate Func<T, bool> Returns List<int> Type Parameters T FindAllIndexOf<T>(IEnumerable<T>, T) Finds all indices of a given element. public static List<int> FindAllIndexOf<T>(this IEnumerable<T> list, T val) Parameters list IEnumerable<T> val T Returns List<int> List containing all indices where element occurs in specified list. Returns an empty list if there are no occurences. Type Parameters T FindFirstElementWithConditionMet<T>(IEnumerable<T>, Func<T, bool>) Find the first element in array that meets the condition specified in the predicate. public static T FindFirstElementWithConditionMet<T>(this IEnumerable<T> list, Func<T, bool> predicate) Parameters list IEnumerable<T> predicate Func<T, bool> Returns T Type Parameters T GetTimeFormatted(float, bool) Gets time formatted to minutes:seconds:milliseconds from a given float value in seconds public static string GetTimeFormatted(float t, bool showMilliseconds = true) Parameters t float float value in seconds showMilliseconds bool Returns string HasAtLeastOneMatchingElement<T>(IEnumerable<T>, Func<T, bool>) Returns if this list contains at least one element that matches the condition specified in the predicate. public static bool HasAtLeastOneMatchingElement<T>(this IEnumerable<T> list, Func<T, bool> predicate) Parameters list IEnumerable<T> predicate Func<T, bool> Returns bool Type Parameters T Next<T>(T) Gets the next value in this enum Sourced from: https://stackoverflow.com/a/643438 public static T Next<T>(this T src) where T : Enum Parameters src T Returns T Type Parameters T ObjectToByteArray(object) Converts a System.Object object to a byte array https://stackoverflow.com/a/10502856 public static byte[] ObjectToByteArray(object obj) Parameters obj object Returns byte[] PositiveModulo(int, int) public static int PositiveModulo(this int a, int b) Parameters a int b int Returns int Previous<T>(T) Gets the previous value in this enum Sourced from: https://stackoverflow.com/a/643438 public static T Previous<T>(this T src) where T : Enum Parameters src T Returns T Type Parameters T RandomRange(Vector3, Vector3) Returns a random Vector3 within the specified from - to ranges public static Vector3 RandomRange(Vector3 from, Vector3 to) Parameters from Vector3 to Vector3 Returns Vector3 SetLayerRecursively(Transform, int) Recursively sets the layer of the specified GameObject and all its children to the specified layer public static void SetLayerRecursively(Transform GO, int layer) Parameters GO Transform layer int"
+  },
+  "api/Utkarsh.UnityCore.html": {
+    "href": "api/Utkarsh.UnityCore.html",
+    "title": "Namespace Utkarsh.UnityCore | Unity Common Utilities | 1.0.2",
+    "keywords": "Namespace Utkarsh.UnityCore Classes BinarySerializer This class is to serialize DataContract values to Binary format! We used DataContractSerializer to save files instead of simply using BinaryFormatters, because we were getting a bunch of exceptions and I don't know why. DDOL MathExtensions Class with useful math extension functions. Utilities General utilities script. Consists of static functions that are needed a lot"
+  },
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "| Unity Common Utilities | 1.0.2",
+    "keywords": "This is the documentation for the Scripting APIs of this package."
+  },
+  "changelog/CHANGELOG.html": {
+    "href": "changelog/CHANGELOG.html",
+    "title": "1.0.2 | Unity Common Utilities | 1.0.2",
+    "keywords": "1.0.2 Added Shader Utility functions that help with building compute buffers for sending data to GPU public static ComputeBuffer BuildComputeBuffer<T>(T[] data) public static ComputeBuffer BuildComputeBuffer<T>(T data) 1.0.1 Added Helper Math Functions DivideBy(this float value, Vector3 vec) - divides a float by a Vector3 and returns a Vector3 DivideBy(this float value, Vector2 vec) - divides a float by a Vector2 and returns a Vector2 Reciprocal(this Vector3 vec) - returns 1 / vec (the reciprocal of the given Vector3) Reciprocal(this Vector2 vec) - returns 1 / vec (the reciprocal of the given Vector2) Vector3 Abs Vector2 Abs 1.0.0 Added Pooling Utilities StaticPool: Uses List internally, cannot change size after initialization DynamicPool: Uses List internally, can change size after initialization ArrayStackPool: Uses a stack made of a C# array, cannot change size after initialization QueuePool: Not fully functional yet. Added array based DataStructures: CircularQueue CircularStack Added DDOL (DontDestroyOnLoad) MonoBehaviour Added Utilities script with common utiltiies and extension methods, as well as binary serialization for saving and loading"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| Unity Common Utilities | 1.0.2",
+    "keywords": "This page redirects to the manual."
+  },
+  "license/LICENSE.html": {
+    "href": "license/LICENSE.html",
+    "title": "| Unity Common Utilities | 1.0.2",
+    "keywords": "MIT License Copyright (c) 2024 Utkarsh Dwivedi Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "manual/index.html": {
+    "href": "manual/index.html",
+    "title": "Unity Common Utilities | Unity Common Utilities | 1.0.2",
+    "keywords": "Unity Common Utilities This is a simple repository that contains a bunch of useful scripts I wrote while working on Fling to the Finish and other Unity projects."
+  }
+}

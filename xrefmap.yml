@@ -1,0 +1,1099 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Utkarsh.UnityCore
+  name: Utkarsh.UnityCore
+  href: api/Utkarsh.UnityCore.html
+  commentId: N:Utkarsh.UnityCore
+  fullName: Utkarsh.UnityCore
+  nameWithType: Utkarsh.UnityCore
+- uid: Utkarsh.UnityCore.BinarySerializer
+  name: BinarySerializer
+  href: api/Utkarsh.UnityCore.BinarySerializer.html
+  commentId: T:Utkarsh.UnityCore.BinarySerializer
+  fullName: Utkarsh.UnityCore.BinarySerializer
+  nameWithType: BinarySerializer
+- uid: Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard(System.String)
+  name: CopyTextToClipboard(string)
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_CopyTextToClipboard_System_String_
+  commentId: M:Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard(System.String)
+  name.vb: CopyTextToClipboard(String)
+  fullName: Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard(string)
+  fullName.vb: Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard(String)
+  nameWithType: BinarySerializer.CopyTextToClipboard(string)
+  nameWithType.vb: BinarySerializer.CopyTextToClipboard(String)
+- uid: Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard*
+  name: CopyTextToClipboard
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_CopyTextToClipboard_
+  commentId: Overload:Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.BinarySerializer.CopyTextToClipboard
+  nameWithType: BinarySerializer.CopyTextToClipboard
+- uid: Utkarsh.UnityCore.BinarySerializer.Deserialize*
+  name: Deserialize
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_Deserialize_
+  commentId: Overload:Utkarsh.UnityCore.BinarySerializer.Deserialize
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.BinarySerializer.Deserialize
+  nameWithType: BinarySerializer.Deserialize
+- uid: Utkarsh.UnityCore.BinarySerializer.Deserialize``1(System.Byte[])
+  name: Deserialize<T>(byte[])
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_Deserialize__1_System_Byte___
+  commentId: M:Utkarsh.UnityCore.BinarySerializer.Deserialize``1(System.Byte[])
+  name.vb: Deserialize(Of T)(Byte())
+  fullName: Utkarsh.UnityCore.BinarySerializer.Deserialize<T>(byte[])
+  fullName.vb: Utkarsh.UnityCore.BinarySerializer.Deserialize(Of T)(Byte())
+  nameWithType: BinarySerializer.Deserialize<T>(byte[])
+  nameWithType.vb: BinarySerializer.Deserialize(Of T)(Byte())
+- uid: Utkarsh.UnityCore.BinarySerializer.Serialize*
+  name: Serialize
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_Serialize_
+  commentId: Overload:Utkarsh.UnityCore.BinarySerializer.Serialize
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.BinarySerializer.Serialize
+  nameWithType: BinarySerializer.Serialize
+- uid: Utkarsh.UnityCore.BinarySerializer.Serialize``1(``0)
+  name: Serialize<T>(T)
+  href: api/Utkarsh.UnityCore.BinarySerializer.html#Utkarsh_UnityCore_BinarySerializer_Serialize__1___0_
+  commentId: M:Utkarsh.UnityCore.BinarySerializer.Serialize``1(``0)
+  name.vb: Serialize(Of T)(T)
+  fullName: Utkarsh.UnityCore.BinarySerializer.Serialize<T>(T)
+  fullName.vb: Utkarsh.UnityCore.BinarySerializer.Serialize(Of T)(T)
+  nameWithType: BinarySerializer.Serialize<T>(T)
+  nameWithType.vb: BinarySerializer.Serialize(Of T)(T)
+- uid: Utkarsh.UnityCore.DDOL
+  name: DDOL
+  href: api/Utkarsh.UnityCore.DDOL.html
+  commentId: T:Utkarsh.UnityCore.DDOL
+  fullName: Utkarsh.UnityCore.DDOL
+  nameWithType: DDOL
+- uid: Utkarsh.UnityCore.DataStructures
+  name: Utkarsh.UnityCore.DataStructures
+  href: api/Utkarsh.UnityCore.DataStructures.html
+  commentId: N:Utkarsh.UnityCore.DataStructures
+  fullName: Utkarsh.UnityCore.DataStructures
+  nameWithType: Utkarsh.UnityCore.DataStructures
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1
+  name: CircularQueue<T>
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html
+  commentId: T:Utkarsh.UnityCore.DataStructures.CircularQueue`1
+  name.vb: CircularQueue(Of T)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T)
+  nameWithType: CircularQueue<T>
+  nameWithType.vb: CircularQueue(Of T)
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.#ctor(System.Int32,Utkarsh.UnityCore.DataStructures.OverflowMode)
+  name: CircularQueue(int, OverflowMode)
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1__ctor_System_Int32_Utkarsh_UnityCore_DataStructures_OverflowMode_
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularQueue`1.#ctor(System.Int32,Utkarsh.UnityCore.DataStructures.OverflowMode)
+  name.vb: New(Integer, OverflowMode)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.CircularQueue(int, Utkarsh.UnityCore.DataStructures.OverflowMode)
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).New(Integer, Utkarsh.UnityCore.DataStructures.OverflowMode)
+  nameWithType: CircularQueue<T>.CircularQueue(int, OverflowMode)
+  nameWithType.vb: CircularQueue(Of T).New(Integer, OverflowMode)
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.#ctor*
+  name: CircularQueue
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.CircularQueue
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).New
+  nameWithType: CircularQueue<T>.CircularQueue
+  nameWithType.vb: CircularQueue(Of T).New
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Clear
+  name: Clear()
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Clear
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Clear
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Clear()
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Clear()
+  nameWithType: CircularQueue<T>.Clear()
+  nameWithType.vb: CircularQueue(Of T).Clear()
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Clear*
+  name: Clear
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Clear_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Clear
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Clear
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Clear
+  nameWithType: CircularQueue<T>.Clear
+  nameWithType.vb: CircularQueue(Of T).Clear
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Delete
+  name: Delete()
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Delete
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Delete
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Delete()
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Delete()
+  nameWithType: CircularQueue<T>.Delete()
+  nameWithType.vb: CircularQueue(Of T).Delete()
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Delete*
+  name: Delete
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Delete_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Delete
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Delete
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Delete
+  nameWithType: CircularQueue<T>.Delete
+  nameWithType.vb: CircularQueue(Of T).Delete
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.HasItems
+  name: HasItems
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_HasItems
+  commentId: P:Utkarsh.UnityCore.DataStructures.CircularQueue`1.HasItems
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.HasItems
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).HasItems
+  nameWithType: CircularQueue<T>.HasItems
+  nameWithType.vb: CircularQueue(Of T).HasItems
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.HasItems*
+  name: HasItems
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_HasItems_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.HasItems
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.HasItems
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).HasItems
+  nameWithType: CircularQueue<T>.HasItems
+  nameWithType.vb: CircularQueue(Of T).HasItems
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Head
+  name: Head
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Head
+  commentId: P:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Head
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Head
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Head
+  nameWithType: CircularQueue<T>.Head
+  nameWithType.vb: CircularQueue(Of T).Head
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Head*
+  name: Head
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Head_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Head
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Head
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Head
+  nameWithType: CircularQueue<T>.Head
+  nameWithType.vb: CircularQueue(Of T).Head
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Insert(`0)
+  name: Insert(T)
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Insert__0_
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Insert(`0)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Insert(T)
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Insert(T)
+  nameWithType: CircularQueue<T>.Insert(T)
+  nameWithType.vb: CircularQueue(Of T).Insert(T)
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Insert*
+  name: Insert
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Insert_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Insert
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Insert
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Insert
+  nameWithType: CircularQueue<T>.Insert
+  nameWithType.vb: CircularQueue(Of T).Insert
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Mode
+  name: Mode
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Mode
+  commentId: F:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Mode
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Mode
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Mode
+  nameWithType: CircularQueue<T>.Mode
+  nameWithType.vb: CircularQueue(Of T).Mode
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Tail
+  name: Tail
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Tail
+  commentId: P:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Tail
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Tail
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Tail
+  nameWithType: CircularQueue<T>.Tail
+  nameWithType.vb: CircularQueue(Of T).Tail
+- uid: Utkarsh.UnityCore.DataStructures.CircularQueue`1.Tail*
+  name: Tail
+  href: api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html#Utkarsh_UnityCore_DataStructures_CircularQueue_1_Tail_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularQueue`1.Tail
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularQueue<T>.Tail
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularQueue(Of T).Tail
+  nameWithType: CircularQueue<T>.Tail
+  nameWithType.vb: CircularQueue(Of T).Tail
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1
+  name: CircularStack<T>
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html
+  commentId: T:Utkarsh.UnityCore.DataStructures.CircularStack`1
+  name.vb: CircularStack(Of T)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T)
+  nameWithType: CircularStack<T>
+  nameWithType.vb: CircularStack(Of T)
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.#ctor(System.Int32,Utkarsh.UnityCore.DataStructures.OverflowMode)
+  name: CircularStack(int, OverflowMode)
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1__ctor_System_Int32_Utkarsh_UnityCore_DataStructures_OverflowMode_
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularStack`1.#ctor(System.Int32,Utkarsh.UnityCore.DataStructures.OverflowMode)
+  name.vb: New(Integer, OverflowMode)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.CircularStack(int, Utkarsh.UnityCore.DataStructures.OverflowMode)
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).New(Integer, Utkarsh.UnityCore.DataStructures.OverflowMode)
+  nameWithType: CircularStack<T>.CircularStack(int, OverflowMode)
+  nameWithType.vb: CircularStack(Of T).New(Integer, OverflowMode)
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.#ctor*
+  name: CircularStack
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.CircularStack
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).New
+  nameWithType: CircularStack<T>.CircularStack
+  nameWithType.vb: CircularStack(Of T).New
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Clear
+  name: Clear()
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Clear
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularStack`1.Clear
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Clear()
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Clear()
+  nameWithType: CircularStack<T>.Clear()
+  nameWithType.vb: CircularStack(Of T).Clear()
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Clear*
+  name: Clear
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Clear_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.Clear
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Clear
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Clear
+  nameWithType: CircularStack<T>.Clear
+  nameWithType.vb: CircularStack(Of T).Clear
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.HasItems
+  name: HasItems
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_HasItems
+  commentId: P:Utkarsh.UnityCore.DataStructures.CircularStack`1.HasItems
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.HasItems
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).HasItems
+  nameWithType: CircularStack<T>.HasItems
+  nameWithType.vb: CircularStack(Of T).HasItems
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.HasItems*
+  name: HasItems
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_HasItems_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.HasItems
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.HasItems
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).HasItems
+  nameWithType: CircularStack<T>.HasItems
+  nameWithType.vb: CircularStack(Of T).HasItems
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Head
+  name: Head
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Head
+  commentId: P:Utkarsh.UnityCore.DataStructures.CircularStack`1.Head
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Head
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Head
+  nameWithType: CircularStack<T>.Head
+  nameWithType.vb: CircularStack(Of T).Head
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Head*
+  name: Head
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Head_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.Head
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Head
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Head
+  nameWithType: CircularStack<T>.Head
+  nameWithType.vb: CircularStack(Of T).Head
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Mode
+  name: Mode
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Mode
+  commentId: F:Utkarsh.UnityCore.DataStructures.CircularStack`1.Mode
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Mode
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Mode
+  nameWithType: CircularStack<T>.Mode
+  nameWithType.vb: CircularStack(Of T).Mode
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Peek
+  name: Peek()
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Peek
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularStack`1.Peek
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Peek()
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Peek()
+  nameWithType: CircularStack<T>.Peek()
+  nameWithType.vb: CircularStack(Of T).Peek()
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Peek*
+  name: Peek
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Peek_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.Peek
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Peek
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Peek
+  nameWithType: CircularStack<T>.Peek
+  nameWithType.vb: CircularStack(Of T).Peek
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Pop
+  name: Pop()
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Pop
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularStack`1.Pop
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Pop()
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Pop()
+  nameWithType: CircularStack<T>.Pop()
+  nameWithType.vb: CircularStack(Of T).Pop()
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Pop*
+  name: Pop
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Pop_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.Pop
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Pop
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Pop
+  nameWithType: CircularStack<T>.Pop
+  nameWithType.vb: CircularStack(Of T).Pop
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Push(`0)
+  name: Push(T)
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Push__0_
+  commentId: M:Utkarsh.UnityCore.DataStructures.CircularStack`1.Push(`0)
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Push(T)
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Push(T)
+  nameWithType: CircularStack<T>.Push(T)
+  nameWithType.vb: CircularStack(Of T).Push(T)
+- uid: Utkarsh.UnityCore.DataStructures.CircularStack`1.Push*
+  name: Push
+  href: api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html#Utkarsh_UnityCore_DataStructures_CircularStack_1_Push_
+  commentId: Overload:Utkarsh.UnityCore.DataStructures.CircularStack`1.Push
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.DataStructures.CircularStack<T>.Push
+  fullName.vb: Utkarsh.UnityCore.DataStructures.CircularStack(Of T).Push
+  nameWithType: CircularStack<T>.Push
+  nameWithType.vb: CircularStack(Of T).Push
+- uid: Utkarsh.UnityCore.DataStructures.OverflowMode
+  name: OverflowMode
+  href: api/Utkarsh.UnityCore.DataStructures.OverflowMode.html
+  commentId: T:Utkarsh.UnityCore.DataStructures.OverflowMode
+  fullName: Utkarsh.UnityCore.DataStructures.OverflowMode
+  nameWithType: OverflowMode
+- uid: Utkarsh.UnityCore.DataStructures.OverflowMode.DisallowPushing
+  name: DisallowPushing
+  href: api/Utkarsh.UnityCore.DataStructures.OverflowMode.html#Utkarsh_UnityCore_DataStructures_OverflowMode_DisallowPushing
+  commentId: F:Utkarsh.UnityCore.DataStructures.OverflowMode.DisallowPushing
+  fullName: Utkarsh.UnityCore.DataStructures.OverflowMode.DisallowPushing
+  nameWithType: OverflowMode.DisallowPushing
+- uid: Utkarsh.UnityCore.DataStructures.OverflowMode.ReplaceOldItems
+  name: ReplaceOldItems
+  href: api/Utkarsh.UnityCore.DataStructures.OverflowMode.html#Utkarsh_UnityCore_DataStructures_OverflowMode_ReplaceOldItems
+  commentId: F:Utkarsh.UnityCore.DataStructures.OverflowMode.ReplaceOldItems
+  fullName: Utkarsh.UnityCore.DataStructures.OverflowMode.ReplaceOldItems
+  nameWithType: OverflowMode.ReplaceOldItems
+- uid: Utkarsh.UnityCore.MathExtensions
+  name: MathExtensions
+  href: api/Utkarsh.UnityCore.MathExtensions.html
+  commentId: T:Utkarsh.UnityCore.MathExtensions
+  fullName: Utkarsh.UnityCore.MathExtensions
+  nameWithType: MathExtensions
+- uid: Utkarsh.UnityCore.MathExtensions.Abs(Vector2)
+  name: Abs(Vector2)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Abs_Vector2_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.Abs(Vector2)
+  fullName: Utkarsh.UnityCore.MathExtensions.Abs(Vector2)
+  nameWithType: MathExtensions.Abs(Vector2)
+- uid: Utkarsh.UnityCore.MathExtensions.Abs(Vector3)
+  name: Abs(Vector3)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Abs_Vector3_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.Abs(Vector3)
+  fullName: Utkarsh.UnityCore.MathExtensions.Abs(Vector3)
+  nameWithType: MathExtensions.Abs(Vector3)
+- uid: Utkarsh.UnityCore.MathExtensions.Abs*
+  name: Abs
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Abs_
+  commentId: Overload:Utkarsh.UnityCore.MathExtensions.Abs
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.MathExtensions.Abs
+  nameWithType: MathExtensions.Abs
+- uid: Utkarsh.UnityCore.MathExtensions.DivideBy(System.Single,Vector2)
+  name: DivideBy(float, Vector2)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_DivideBy_System_Single_Vector2_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.DivideBy(System.Single,Vector2)
+  name.vb: DivideBy(Single, Vector2)
+  fullName: Utkarsh.UnityCore.MathExtensions.DivideBy(float, Vector2)
+  fullName.vb: Utkarsh.UnityCore.MathExtensions.DivideBy(Single, Vector2)
+  nameWithType: MathExtensions.DivideBy(float, Vector2)
+  nameWithType.vb: MathExtensions.DivideBy(Single, Vector2)
+- uid: Utkarsh.UnityCore.MathExtensions.DivideBy(System.Single,Vector3)
+  name: DivideBy(float, Vector3)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_DivideBy_System_Single_Vector3_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.DivideBy(System.Single,Vector3)
+  name.vb: DivideBy(Single, Vector3)
+  fullName: Utkarsh.UnityCore.MathExtensions.DivideBy(float, Vector3)
+  fullName.vb: Utkarsh.UnityCore.MathExtensions.DivideBy(Single, Vector3)
+  nameWithType: MathExtensions.DivideBy(float, Vector3)
+  nameWithType.vb: MathExtensions.DivideBy(Single, Vector3)
+- uid: Utkarsh.UnityCore.MathExtensions.DivideBy*
+  name: DivideBy
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_DivideBy_
+  commentId: Overload:Utkarsh.UnityCore.MathExtensions.DivideBy
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.MathExtensions.DivideBy
+  nameWithType: MathExtensions.DivideBy
+- uid: Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector2)
+  name: Reciprocal(Vector2)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Reciprocal_Vector2_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector2)
+  fullName: Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector2)
+  nameWithType: MathExtensions.Reciprocal(Vector2)
+- uid: Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector3)
+  name: Reciprocal(Vector3)
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Reciprocal_Vector3_
+  commentId: M:Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector3)
+  fullName: Utkarsh.UnityCore.MathExtensions.Reciprocal(Vector3)
+  nameWithType: MathExtensions.Reciprocal(Vector3)
+- uid: Utkarsh.UnityCore.MathExtensions.Reciprocal*
+  name: Reciprocal
+  href: api/Utkarsh.UnityCore.MathExtensions.html#Utkarsh_UnityCore_MathExtensions_Reciprocal_
+  commentId: Overload:Utkarsh.UnityCore.MathExtensions.Reciprocal
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.MathExtensions.Reciprocal
+  nameWithType: MathExtensions.Reciprocal
+- uid: Utkarsh.UnityCore.Pooling
+  name: Utkarsh.UnityCore.Pooling
+  href: api/Utkarsh.UnityCore.Pooling.html
+  commentId: N:Utkarsh.UnityCore.Pooling
+  fullName: Utkarsh.UnityCore.Pooling
+  nameWithType: Utkarsh.UnityCore.Pooling
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1
+  name: ArrayStackPool<T>
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.ArrayStackPool`1
+  name.vb: ArrayStackPool(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T)
+  nameWithType: ArrayStackPool<T>
+  nameWithType.vb: ArrayStackPool(Of T)
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor(System.Func{`0},System.Int32)
+  name: ArrayStackPool(Func<T>, int)
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1__ctor_System_Func__0__System_Int32_
+  commentId: M:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor(System.Func{`0},System.Int32)
+  name.vb: New(Func(Of T), Integer)
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ArrayStackPool(System.Func<T>, int)
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).New(System.Func(Of T), Integer)
+  nameWithType: ArrayStackPool<T>.ArrayStackPool(Func<T>, int)
+  nameWithType.vb: ArrayStackPool(Of T).New(Func(Of T), Integer)
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor(`0[])
+  name: ArrayStackPool(T[])
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1__ctor__0___
+  commentId: M:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor(`0[])
+  name.vb: New(T())
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ArrayStackPool(T[])
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).New(T())
+  nameWithType: ArrayStackPool<T>.ArrayStackPool(T[])
+  nameWithType.vb: ArrayStackPool(Of T).New(T())
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor*
+  name: ArrayStackPool
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ArrayStackPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).New
+  nameWithType: ArrayStackPool<T>.ArrayStackPool
+  nameWithType.vb: ArrayStackPool(Of T).New
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ForEach(System.Action{`0})
+  name: ForEach(Action<T>)
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_ForEach_System_Action__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ForEach(System.Action{`0})
+  name.vb: ForEach(Action(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ForEach(System.Action<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).ForEach(System.Action(Of T))
+  nameWithType: ArrayStackPool<T>.ForEach(Action<T>)
+  nameWithType.vb: ArrayStackPool(Of T).ForEach(Action(Of T))
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ForEach*
+  name: ForEach
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_ForEach_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ForEach
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ForEach
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).ForEach
+  nameWithType: ArrayStackPool<T>.ForEach
+  nameWithType.vb: ArrayStackPool(Of T).ForEach
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.GetPooledObject
+  name: GetPooledObject()
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_GetPooledObject
+  commentId: M:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.GetPooledObject
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.GetPooledObject()
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).GetPooledObject()
+  nameWithType: ArrayStackPool<T>.GetPooledObject()
+  nameWithType.vb: ArrayStackPool(Of T).GetPooledObject()
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.GetPooledObject*
+  name: GetPooledObject
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_GetPooledObject_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.GetPooledObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.GetPooledObject
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).GetPooledObject
+  nameWithType: ArrayStackPool<T>.GetPooledObject
+  nameWithType.vb: ArrayStackPool(Of T).GetPooledObject
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ReturnToPool(`0)
+  name: ReturnToPool(T)
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_ReturnToPool__0_
+  commentId: M:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ReturnToPool(`0)
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ReturnToPool(T)
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).ReturnToPool(T)
+  nameWithType: ArrayStackPool<T>.ReturnToPool(T)
+  nameWithType.vb: ArrayStackPool(Of T).ReturnToPool(T)
+- uid: Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ReturnToPool*
+  name: ReturnToPool
+  href: api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html#Utkarsh_UnityCore_Pooling_ArrayStackPool_1_ReturnToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.ArrayStackPool`1.ReturnToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.ArrayStackPool<T>.ReturnToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.ArrayStackPool(Of T).ReturnToPool
+  nameWithType: ArrayStackPool<T>.ReturnToPool
+  nameWithType.vb: ArrayStackPool(Of T).ReturnToPool
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1
+  name: DynamicPool<T>
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.DynamicPool`1
+  name.vb: DynamicPool(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T)
+  nameWithType: DynamicPool<T>
+  nameWithType.vb: DynamicPool(Of T)
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.#ctor(System.Func{`0},System.Int32)
+  name: DynamicPool(Func<T>, int)
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1__ctor_System_Func__0__System_Int32_
+  commentId: M:Utkarsh.UnityCore.Pooling.DynamicPool`1.#ctor(System.Func{`0},System.Int32)
+  name.vb: New(Func(Of T), Integer)
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.DynamicPool(System.Func<T>, int)
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).New(System.Func(Of T), Integer)
+  nameWithType: DynamicPool<T>.DynamicPool(Func<T>, int)
+  nameWithType.vb: DynamicPool(Of T).New(Func(Of T), Integer)
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.#ctor*
+  name: DynamicPool
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.DynamicPool`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.DynamicPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).New
+  nameWithType: DynamicPool<T>.DynamicPool
+  nameWithType.vb: DynamicPool(Of T).New
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.ForEach(System.Action{`0})
+  name: ForEach(Action<T>)
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_ForEach_System_Action__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.DynamicPool`1.ForEach(System.Action{`0})
+  name.vb: ForEach(Action(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.ForEach(System.Action<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).ForEach(System.Action(Of T))
+  nameWithType: DynamicPool<T>.ForEach(Action<T>)
+  nameWithType.vb: DynamicPool(Of T).ForEach(Action(Of T))
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.ForEach*
+  name: ForEach
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_ForEach_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.DynamicPool`1.ForEach
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.ForEach
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).ForEach
+  nameWithType: DynamicPool<T>.ForEach
+  nameWithType.vb: DynamicPool(Of T).ForEach
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.GetPooledObject
+  name: GetPooledObject()
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_GetPooledObject
+  commentId: M:Utkarsh.UnityCore.Pooling.DynamicPool`1.GetPooledObject
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.GetPooledObject()
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).GetPooledObject()
+  nameWithType: DynamicPool<T>.GetPooledObject()
+  nameWithType.vb: DynamicPool(Of T).GetPooledObject()
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.GetPooledObject*
+  name: GetPooledObject
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_GetPooledObject_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.DynamicPool`1.GetPooledObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.GetPooledObject
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).GetPooledObject
+  nameWithType: DynamicPool<T>.GetPooledObject
+  nameWithType.vb: DynamicPool(Of T).GetPooledObject
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.ReturnToPool(`0)
+  name: ReturnToPool(T)
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_ReturnToPool__0_
+  commentId: M:Utkarsh.UnityCore.Pooling.DynamicPool`1.ReturnToPool(`0)
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.ReturnToPool(T)
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).ReturnToPool(T)
+  nameWithType: DynamicPool<T>.ReturnToPool(T)
+  nameWithType.vb: DynamicPool(Of T).ReturnToPool(T)
+- uid: Utkarsh.UnityCore.Pooling.DynamicPool`1.ReturnToPool*
+  name: ReturnToPool
+  href: api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html#Utkarsh_UnityCore_Pooling_DynamicPool_1_ReturnToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.DynamicPool`1.ReturnToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.DynamicPool<T>.ReturnToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.DynamicPool(Of T).ReturnToPool
+  nameWithType: DynamicPool<T>.ReturnToPool
+  nameWithType.vb: DynamicPool(Of T).ReturnToPool
+- uid: Utkarsh.UnityCore.Pooling.IPool`1
+  name: IPool<T>
+  href: api/Utkarsh.UnityCore.Pooling.IPool-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.IPool`1
+  name.vb: IPool(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.IPool<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPool(Of T)
+  nameWithType: IPool<T>
+  nameWithType.vb: IPool(Of T)
+- uid: Utkarsh.UnityCore.Pooling.IPool`1.GetPooledObject
+  name: GetPooledObject()
+  href: api/Utkarsh.UnityCore.Pooling.IPool-1.html#Utkarsh_UnityCore_Pooling_IPool_1_GetPooledObject
+  commentId: M:Utkarsh.UnityCore.Pooling.IPool`1.GetPooledObject
+  fullName: Utkarsh.UnityCore.Pooling.IPool<T>.GetPooledObject()
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPool(Of T).GetPooledObject()
+  nameWithType: IPool<T>.GetPooledObject()
+  nameWithType.vb: IPool(Of T).GetPooledObject()
+- uid: Utkarsh.UnityCore.Pooling.IPool`1.GetPooledObject*
+  name: GetPooledObject
+  href: api/Utkarsh.UnityCore.Pooling.IPool-1.html#Utkarsh_UnityCore_Pooling_IPool_1_GetPooledObject_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.IPool`1.GetPooledObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.IPool<T>.GetPooledObject
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPool(Of T).GetPooledObject
+  nameWithType: IPool<T>.GetPooledObject
+  nameWithType.vb: IPool(Of T).GetPooledObject
+- uid: Utkarsh.UnityCore.Pooling.IPool`1.ReturnToPool(`0)
+  name: ReturnToPool(T)
+  href: api/Utkarsh.UnityCore.Pooling.IPool-1.html#Utkarsh_UnityCore_Pooling_IPool_1_ReturnToPool__0_
+  commentId: M:Utkarsh.UnityCore.Pooling.IPool`1.ReturnToPool(`0)
+  fullName: Utkarsh.UnityCore.Pooling.IPool<T>.ReturnToPool(T)
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPool(Of T).ReturnToPool(T)
+  nameWithType: IPool<T>.ReturnToPool(T)
+  nameWithType.vb: IPool(Of T).ReturnToPool(T)
+- uid: Utkarsh.UnityCore.Pooling.IPool`1.ReturnToPool*
+  name: ReturnToPool
+  href: api/Utkarsh.UnityCore.Pooling.IPool-1.html#Utkarsh_UnityCore_Pooling_IPool_1_ReturnToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.IPool`1.ReturnToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.IPool<T>.ReturnToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPool(Of T).ReturnToPool
+  nameWithType: IPool<T>.ReturnToPool
+  nameWithType.vb: IPool(Of T).ReturnToPool
+- uid: Utkarsh.UnityCore.Pooling.IPooledObject`1
+  name: IPooledObject<T>
+  href: api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.IPooledObject`1
+  name.vb: IPooledObject(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.IPooledObject<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPooledObject(Of T)
+  nameWithType: IPooledObject<T>
+  nameWithType.vb: IPooledObject(Of T)
+- uid: Utkarsh.UnityCore.Pooling.IPooledObject`1.RegisterToPool(Utkarsh.UnityCore.Pooling.IPool{`0})
+  name: RegisterToPool(IPool<T>)
+  href: api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html#Utkarsh_UnityCore_Pooling_IPooledObject_1_RegisterToPool_Utkarsh_UnityCore_Pooling_IPool__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.IPooledObject`1.RegisterToPool(Utkarsh.UnityCore.Pooling.IPool{`0})
+  name.vb: RegisterToPool(IPool(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.IPooledObject<T>.RegisterToPool(Utkarsh.UnityCore.Pooling.IPool<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPooledObject(Of T).RegisterToPool(Utkarsh.UnityCore.Pooling.IPool(Of T))
+  nameWithType: IPooledObject<T>.RegisterToPool(IPool<T>)
+  nameWithType.vb: IPooledObject(Of T).RegisterToPool(IPool(Of T))
+- uid: Utkarsh.UnityCore.Pooling.IPooledObject`1.RegisterToPool*
+  name: RegisterToPool
+  href: api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html#Utkarsh_UnityCore_Pooling_IPooledObject_1_RegisterToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.IPooledObject`1.RegisterToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.IPooledObject<T>.RegisterToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.IPooledObject(Of T).RegisterToPool
+  nameWithType: IPooledObject<T>.RegisterToPool
+  nameWithType.vb: IPooledObject(Of T).RegisterToPool
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1
+  name: QueuePool<T>
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.QueuePool`1
+  name.vb: QueuePool(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T)
+  nameWithType: QueuePool<T>
+  nameWithType.vb: QueuePool(Of T)
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor(System.Func{`0},System.Int32)
+  name: QueuePool(Func<T>, int)
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1__ctor_System_Func__0__System_Int32_
+  commentId: M:Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor(System.Func{`0},System.Int32)
+  name.vb: New(Func(Of T), Integer)
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.QueuePool(System.Func<T>, int)
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).New(System.Func(Of T), Integer)
+  nameWithType: QueuePool<T>.QueuePool(Func<T>, int)
+  nameWithType.vb: QueuePool(Of T).New(Func(Of T), Integer)
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor(`0[])
+  name: QueuePool(T[])
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1__ctor__0___
+  commentId: M:Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor(`0[])
+  name.vb: New(T())
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.QueuePool(T[])
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).New(T())
+  nameWithType: QueuePool<T>.QueuePool(T[])
+  nameWithType.vb: QueuePool(Of T).New(T())
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor*
+  name: QueuePool
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.QueuePool`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.QueuePool
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).New
+  nameWithType: QueuePool<T>.QueuePool
+  nameWithType.vb: QueuePool(Of T).New
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.ForEach(System.Action{`0})
+  name: ForEach(Action<T>)
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_ForEach_System_Action__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.QueuePool`1.ForEach(System.Action{`0})
+  name.vb: ForEach(Action(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.ForEach(System.Action<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).ForEach(System.Action(Of T))
+  nameWithType: QueuePool<T>.ForEach(Action<T>)
+  nameWithType.vb: QueuePool(Of T).ForEach(Action(Of T))
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.ForEach*
+  name: ForEach
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_ForEach_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.QueuePool`1.ForEach
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.ForEach
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).ForEach
+  nameWithType: QueuePool<T>.ForEach
+  nameWithType.vb: QueuePool(Of T).ForEach
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.GetPooledObject
+  name: GetPooledObject()
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_GetPooledObject
+  commentId: M:Utkarsh.UnityCore.Pooling.QueuePool`1.GetPooledObject
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.GetPooledObject()
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).GetPooledObject()
+  nameWithType: QueuePool<T>.GetPooledObject()
+  nameWithType.vb: QueuePool(Of T).GetPooledObject()
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.GetPooledObject*
+  name: GetPooledObject
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_GetPooledObject_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.QueuePool`1.GetPooledObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.GetPooledObject
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).GetPooledObject
+  nameWithType: QueuePool<T>.GetPooledObject
+  nameWithType.vb: QueuePool(Of T).GetPooledObject
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.ReturnToPool(`0)
+  name: ReturnToPool(T)
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_ReturnToPool__0_
+  commentId: M:Utkarsh.UnityCore.Pooling.QueuePool`1.ReturnToPool(`0)
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.ReturnToPool(T)
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).ReturnToPool(T)
+  nameWithType: QueuePool<T>.ReturnToPool(T)
+  nameWithType.vb: QueuePool(Of T).ReturnToPool(T)
+- uid: Utkarsh.UnityCore.Pooling.QueuePool`1.ReturnToPool*
+  name: ReturnToPool
+  href: api/Utkarsh.UnityCore.Pooling.QueuePool-1.html#Utkarsh_UnityCore_Pooling_QueuePool_1_ReturnToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.QueuePool`1.ReturnToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.QueuePool<T>.ReturnToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.QueuePool(Of T).ReturnToPool
+  nameWithType: QueuePool<T>.ReturnToPool
+  nameWithType.vb: QueuePool(Of T).ReturnToPool
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1
+  name: StaticPool<T>
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html
+  commentId: T:Utkarsh.UnityCore.Pooling.StaticPool`1
+  name.vb: StaticPool(Of T)
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T)
+  nameWithType: StaticPool<T>
+  nameWithType.vb: StaticPool(Of T)
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor(System.Collections.Generic.List{`0})
+  name: StaticPool(List<T>)
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1__ctor_System_Collections_Generic_List__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor(System.Collections.Generic.List{`0})
+  name.vb: New(List(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.StaticPool(System.Collections.Generic.List<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).New(System.Collections.Generic.List(Of T))
+  nameWithType: StaticPool<T>.StaticPool(List<T>)
+  nameWithType.vb: StaticPool(Of T).New(List(Of T))
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor(System.Func{`0},System.Int32)
+  name: StaticPool(Func<T>, int)
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1__ctor_System_Func__0__System_Int32_
+  commentId: M:Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor(System.Func{`0},System.Int32)
+  name.vb: New(Func(Of T), Integer)
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.StaticPool(System.Func<T>, int)
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).New(System.Func(Of T), Integer)
+  nameWithType: StaticPool<T>.StaticPool(Func<T>, int)
+  nameWithType.vb: StaticPool(Of T).New(Func(Of T), Integer)
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor*
+  name: StaticPool
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1__ctor_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.StaticPool`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.StaticPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).New
+  nameWithType: StaticPool<T>.StaticPool
+  nameWithType.vb: StaticPool(Of T).New
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.ForEach(System.Action{`0})
+  name: ForEach(Action<T>)
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_ForEach_System_Action__0__
+  commentId: M:Utkarsh.UnityCore.Pooling.StaticPool`1.ForEach(System.Action{`0})
+  name.vb: ForEach(Action(Of T))
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.ForEach(System.Action<T>)
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).ForEach(System.Action(Of T))
+  nameWithType: StaticPool<T>.ForEach(Action<T>)
+  nameWithType.vb: StaticPool(Of T).ForEach(Action(Of T))
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.ForEach*
+  name: ForEach
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_ForEach_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.StaticPool`1.ForEach
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.ForEach
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).ForEach
+  nameWithType: StaticPool<T>.ForEach
+  nameWithType.vb: StaticPool(Of T).ForEach
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.GetPooledObject
+  name: GetPooledObject()
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_GetPooledObject
+  commentId: M:Utkarsh.UnityCore.Pooling.StaticPool`1.GetPooledObject
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.GetPooledObject()
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).GetPooledObject()
+  nameWithType: StaticPool<T>.GetPooledObject()
+  nameWithType.vb: StaticPool(Of T).GetPooledObject()
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.GetPooledObject*
+  name: GetPooledObject
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_GetPooledObject_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.StaticPool`1.GetPooledObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.GetPooledObject
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).GetPooledObject
+  nameWithType: StaticPool<T>.GetPooledObject
+  nameWithType.vb: StaticPool(Of T).GetPooledObject
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.ReturnToPool(`0)
+  name: ReturnToPool(T)
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_ReturnToPool__0_
+  commentId: M:Utkarsh.UnityCore.Pooling.StaticPool`1.ReturnToPool(`0)
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.ReturnToPool(T)
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).ReturnToPool(T)
+  nameWithType: StaticPool<T>.ReturnToPool(T)
+  nameWithType.vb: StaticPool(Of T).ReturnToPool(T)
+- uid: Utkarsh.UnityCore.Pooling.StaticPool`1.ReturnToPool*
+  name: ReturnToPool
+  href: api/Utkarsh.UnityCore.Pooling.StaticPool-1.html#Utkarsh_UnityCore_Pooling_StaticPool_1_ReturnToPool_
+  commentId: Overload:Utkarsh.UnityCore.Pooling.StaticPool`1.ReturnToPool
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Pooling.StaticPool<T>.ReturnToPool
+  fullName.vb: Utkarsh.UnityCore.Pooling.StaticPool(Of T).ReturnToPool
+  nameWithType: StaticPool<T>.ReturnToPool
+  nameWithType.vb: StaticPool(Of T).ReturnToPool
+- uid: Utkarsh.UnityCore.ShaderUtils
+  name: Utkarsh.UnityCore.ShaderUtils
+  href: api/Utkarsh.UnityCore.ShaderUtils.html
+  commentId: N:Utkarsh.UnityCore.ShaderUtils
+  fullName: Utkarsh.UnityCore.ShaderUtils
+  nameWithType: Utkarsh.UnityCore.ShaderUtils
+- uid: Utkarsh.UnityCore.ShaderUtils.ShaderUtility
+  name: ShaderUtility
+  href: api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html
+  commentId: T:Utkarsh.UnityCore.ShaderUtils.ShaderUtility
+  fullName: Utkarsh.UnityCore.ShaderUtils.ShaderUtility
+  nameWithType: ShaderUtility
+- uid: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer*
+  name: BuildComputeBuffer
+  href: api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html#Utkarsh_UnityCore_ShaderUtils_ShaderUtility_BuildComputeBuffer_
+  commentId: Overload:Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer
+  nameWithType: ShaderUtility.BuildComputeBuffer
+- uid: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer``1(``0)
+  name: BuildComputeBuffer<T>(T)
+  href: api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html#Utkarsh_UnityCore_ShaderUtils_ShaderUtility_BuildComputeBuffer__1___0_
+  commentId: M:Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer``1(``0)
+  name.vb: BuildComputeBuffer(Of T)(T)
+  fullName: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer<T>(T)
+  fullName.vb: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer(Of T)(T)
+  nameWithType: ShaderUtility.BuildComputeBuffer<T>(T)
+  nameWithType.vb: ShaderUtility.BuildComputeBuffer(Of T)(T)
+- uid: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer``1(``0[])
+  name: BuildComputeBuffer<T>(T[])
+  href: api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html#Utkarsh_UnityCore_ShaderUtils_ShaderUtility_BuildComputeBuffer__1___0___
+  commentId: M:Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer``1(``0[])
+  name.vb: BuildComputeBuffer(Of T)(T())
+  fullName: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer<T>(T[])
+  fullName.vb: Utkarsh.UnityCore.ShaderUtils.ShaderUtility.BuildComputeBuffer(Of T)(T())
+  nameWithType: ShaderUtility.BuildComputeBuffer<T>(T[])
+  nameWithType.vb: ShaderUtility.BuildComputeBuffer(Of T)(T())
+- uid: Utkarsh.UnityCore.Utilities
+  name: Utilities
+  href: api/Utkarsh.UnityCore.Utilities.html
+  commentId: T:Utkarsh.UnityCore.Utilities
+  fullName: Utkarsh.UnityCore.Utilities
+  nameWithType: Utilities
+- uid: Utkarsh.UnityCore.Utilities.ByteArrayToObject(System.Byte[])
+  name: ByteArrayToObject(byte[])
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_ByteArrayToObject_System_Byte___
+  commentId: M:Utkarsh.UnityCore.Utilities.ByteArrayToObject(System.Byte[])
+  name.vb: ByteArrayToObject(Byte())
+  fullName: Utkarsh.UnityCore.Utilities.ByteArrayToObject(byte[])
+  fullName.vb: Utkarsh.UnityCore.Utilities.ByteArrayToObject(Byte())
+  nameWithType: Utilities.ByteArrayToObject(byte[])
+  nameWithType.vb: Utilities.ByteArrayToObject(Byte())
+- uid: Utkarsh.UnityCore.Utilities.ByteArrayToObject*
+  name: ByteArrayToObject
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_ByteArrayToObject_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.ByteArrayToObject
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.ByteArrayToObject
+  nameWithType: Utilities.ByteArrayToObject
+- uid: Utkarsh.UnityCore.Utilities.FindAllIndexOf*
+  name: FindAllIndexOf
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindAllIndexOf_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.FindAllIndexOf
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.FindAllIndexOf
+  nameWithType: Utilities.FindAllIndexOf
+- uid: Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet*
+  name: FindAllIndexOfConditionMet
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindAllIndexOfConditionMet_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet
+  nameWithType: Utilities.FindAllIndexOfConditionMet
+- uid: Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: FindAllIndexOfConditionMet<T>(IEnumerable<T>, Func<T, bool>)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindAllIndexOfConditionMet__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: FindAllIndexOfConditionMet(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+  fullName: Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, bool>)
+  fullName.vb: Utkarsh.UnityCore.Utilities.FindAllIndexOfConditionMet(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, Boolean))
+  nameWithType: Utilities.FindAllIndexOfConditionMet<T>(IEnumerable<T>, Func<T, bool>)
+  nameWithType.vb: Utilities.FindAllIndexOfConditionMet(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+- uid: Utkarsh.UnityCore.Utilities.FindAllIndexOf``1(System.Collections.Generic.IEnumerable{``0},``0)
+  name: FindAllIndexOf<T>(IEnumerable<T>, T)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindAllIndexOf__1_System_Collections_Generic_IEnumerable___0____0_
+  commentId: M:Utkarsh.UnityCore.Utilities.FindAllIndexOf``1(System.Collections.Generic.IEnumerable{``0},``0)
+  name.vb: FindAllIndexOf(Of T)(IEnumerable(Of T), T)
+  fullName: Utkarsh.UnityCore.Utilities.FindAllIndexOf<T>(System.Collections.Generic.IEnumerable<T>, T)
+  fullName.vb: Utkarsh.UnityCore.Utilities.FindAllIndexOf(Of T)(System.Collections.Generic.IEnumerable(Of T), T)
+  nameWithType: Utilities.FindAllIndexOf<T>(IEnumerable<T>, T)
+  nameWithType.vb: Utilities.FindAllIndexOf(Of T)(IEnumerable(Of T), T)
+- uid: Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet*
+  name: FindFirstElementWithConditionMet
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindFirstElementWithConditionMet_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet
+  nameWithType: Utilities.FindFirstElementWithConditionMet
+- uid: Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: FindFirstElementWithConditionMet<T>(IEnumerable<T>, Func<T, bool>)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_FindFirstElementWithConditionMet__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: FindFirstElementWithConditionMet(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+  fullName: Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, bool>)
+  fullName.vb: Utkarsh.UnityCore.Utilities.FindFirstElementWithConditionMet(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, Boolean))
+  nameWithType: Utilities.FindFirstElementWithConditionMet<T>(IEnumerable<T>, Func<T, bool>)
+  nameWithType.vb: Utilities.FindFirstElementWithConditionMet(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+- uid: Utkarsh.UnityCore.Utilities.GetTimeFormatted(System.Single,System.Boolean)
+  name: GetTimeFormatted(float, bool)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_GetTimeFormatted_System_Single_System_Boolean_
+  commentId: M:Utkarsh.UnityCore.Utilities.GetTimeFormatted(System.Single,System.Boolean)
+  name.vb: GetTimeFormatted(Single, Boolean)
+  fullName: Utkarsh.UnityCore.Utilities.GetTimeFormatted(float, bool)
+  fullName.vb: Utkarsh.UnityCore.Utilities.GetTimeFormatted(Single, Boolean)
+  nameWithType: Utilities.GetTimeFormatted(float, bool)
+  nameWithType.vb: Utilities.GetTimeFormatted(Single, Boolean)
+- uid: Utkarsh.UnityCore.Utilities.GetTimeFormatted*
+  name: GetTimeFormatted
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_GetTimeFormatted_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.GetTimeFormatted
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.GetTimeFormatted
+  nameWithType: Utilities.GetTimeFormatted
+- uid: Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement*
+  name: HasAtLeastOneMatchingElement
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_HasAtLeastOneMatchingElement_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement
+  nameWithType: Utilities.HasAtLeastOneMatchingElement
+- uid: Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: HasAtLeastOneMatchingElement<T>(IEnumerable<T>, Func<T, bool>)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_HasAtLeastOneMatchingElement__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: HasAtLeastOneMatchingElement(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+  fullName: Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, bool>)
+  fullName.vb: Utkarsh.UnityCore.Utilities.HasAtLeastOneMatchingElement(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, Boolean))
+  nameWithType: Utilities.HasAtLeastOneMatchingElement<T>(IEnumerable<T>, Func<T, bool>)
+  nameWithType.vb: Utilities.HasAtLeastOneMatchingElement(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+- uid: Utkarsh.UnityCore.Utilities.MILLISECONDS_IN_SECOND
+  name: MILLISECONDS_IN_SECOND
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_MILLISECONDS_IN_SECOND
+  commentId: F:Utkarsh.UnityCore.Utilities.MILLISECONDS_IN_SECOND
+  fullName: Utkarsh.UnityCore.Utilities.MILLISECONDS_IN_SECOND
+  nameWithType: Utilities.MILLISECONDS_IN_SECOND
+- uid: Utkarsh.UnityCore.Utilities.Next*
+  name: Next
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_Next_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.Next
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.Next
+  nameWithType: Utilities.Next
+- uid: Utkarsh.UnityCore.Utilities.Next``1(``0)
+  name: Next<T>(T)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_Next__1___0_
+  commentId: M:Utkarsh.UnityCore.Utilities.Next``1(``0)
+  name.vb: Next(Of T)(T)
+  fullName: Utkarsh.UnityCore.Utilities.Next<T>(T)
+  fullName.vb: Utkarsh.UnityCore.Utilities.Next(Of T)(T)
+  nameWithType: Utilities.Next<T>(T)
+  nameWithType.vb: Utilities.Next(Of T)(T)
+- uid: Utkarsh.UnityCore.Utilities.ObjectToByteArray(System.Object)
+  name: ObjectToByteArray(object)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_ObjectToByteArray_System_Object_
+  commentId: M:Utkarsh.UnityCore.Utilities.ObjectToByteArray(System.Object)
+  name.vb: ObjectToByteArray(Object)
+  fullName: Utkarsh.UnityCore.Utilities.ObjectToByteArray(object)
+  fullName.vb: Utkarsh.UnityCore.Utilities.ObjectToByteArray(Object)
+  nameWithType: Utilities.ObjectToByteArray(object)
+  nameWithType.vb: Utilities.ObjectToByteArray(Object)
+- uid: Utkarsh.UnityCore.Utilities.ObjectToByteArray*
+  name: ObjectToByteArray
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_ObjectToByteArray_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.ObjectToByteArray
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.ObjectToByteArray
+  nameWithType: Utilities.ObjectToByteArray
+- uid: Utkarsh.UnityCore.Utilities.PositiveModulo(System.Int32,System.Int32)
+  name: PositiveModulo(int, int)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_PositiveModulo_System_Int32_System_Int32_
+  commentId: M:Utkarsh.UnityCore.Utilities.PositiveModulo(System.Int32,System.Int32)
+  name.vb: PositiveModulo(Integer, Integer)
+  fullName: Utkarsh.UnityCore.Utilities.PositiveModulo(int, int)
+  fullName.vb: Utkarsh.UnityCore.Utilities.PositiveModulo(Integer, Integer)
+  nameWithType: Utilities.PositiveModulo(int, int)
+  nameWithType.vb: Utilities.PositiveModulo(Integer, Integer)
+- uid: Utkarsh.UnityCore.Utilities.PositiveModulo*
+  name: PositiveModulo
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_PositiveModulo_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.PositiveModulo
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.PositiveModulo
+  nameWithType: Utilities.PositiveModulo
+- uid: Utkarsh.UnityCore.Utilities.Previous*
+  name: Previous
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_Previous_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.Previous
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.Previous
+  nameWithType: Utilities.Previous
+- uid: Utkarsh.UnityCore.Utilities.Previous``1(``0)
+  name: Previous<T>(T)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_Previous__1___0_
+  commentId: M:Utkarsh.UnityCore.Utilities.Previous``1(``0)
+  name.vb: Previous(Of T)(T)
+  fullName: Utkarsh.UnityCore.Utilities.Previous<T>(T)
+  fullName.vb: Utkarsh.UnityCore.Utilities.Previous(Of T)(T)
+  nameWithType: Utilities.Previous<T>(T)
+  nameWithType.vb: Utilities.Previous(Of T)(T)
+- uid: Utkarsh.UnityCore.Utilities.RandomRange(Vector3,Vector3)
+  name: RandomRange(Vector3, Vector3)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_RandomRange_Vector3_Vector3_
+  commentId: M:Utkarsh.UnityCore.Utilities.RandomRange(Vector3,Vector3)
+  fullName: Utkarsh.UnityCore.Utilities.RandomRange(Vector3, Vector3)
+  nameWithType: Utilities.RandomRange(Vector3, Vector3)
+- uid: Utkarsh.UnityCore.Utilities.RandomRange*
+  name: RandomRange
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_RandomRange_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.RandomRange
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.RandomRange
+  nameWithType: Utilities.RandomRange
+- uid: Utkarsh.UnityCore.Utilities.SetLayerRecursively(Transform,System.Int32)
+  name: SetLayerRecursively(Transform, int)
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_SetLayerRecursively_Transform_System_Int32_
+  commentId: M:Utkarsh.UnityCore.Utilities.SetLayerRecursively(Transform,System.Int32)
+  name.vb: SetLayerRecursively(Transform, Integer)
+  fullName: Utkarsh.UnityCore.Utilities.SetLayerRecursively(Transform, int)
+  fullName.vb: Utkarsh.UnityCore.Utilities.SetLayerRecursively(Transform, Integer)
+  nameWithType: Utilities.SetLayerRecursively(Transform, int)
+  nameWithType.vb: Utilities.SetLayerRecursively(Transform, Integer)
+- uid: Utkarsh.UnityCore.Utilities.SetLayerRecursively*
+  name: SetLayerRecursively
+  href: api/Utkarsh.UnityCore.Utilities.html#Utkarsh_UnityCore_Utilities_SetLayerRecursively_
+  commentId: Overload:Utkarsh.UnityCore.Utilities.SetLayerRecursively
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.Utilities.SetLayerRecursively
+  nameWithType: Utilities.SetLayerRecursively
