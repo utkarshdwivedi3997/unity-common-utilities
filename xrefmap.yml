@@ -367,6 +367,55 @@ references:
   commentId: F:Utkarsh.UnityCore.DataStructures.OverflowMode.ReplaceOldItems
   fullName: Utkarsh.UnityCore.DataStructures.OverflowMode.ReplaceOldItems
   nameWithType: OverflowMode.ReplaceOldItems
+- uid: Utkarsh.UnityCore.LayerMaskExtensions
+  name: LayerMaskExtensions
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html
+  commentId: T:Utkarsh.UnityCore.LayerMaskExtensions
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions
+  nameWithType: LayerMaskExtensions
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,Collider)
+  name: ContainsLayer(LayerMask, Collider)
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_LayerMask_Collider_
+  commentId: M:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,Collider)
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, Collider)
+  nameWithType: LayerMaskExtensions.ContainsLayer(LayerMask, Collider)
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,GameObject)
+  name: ContainsLayer(LayerMask, GameObject)
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_LayerMask_GameObject_
+  commentId: M:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,GameObject)
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, GameObject)
+  nameWithType: LayerMaskExtensions.ContainsLayer(LayerMask, GameObject)
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,System.Int32)
+  name: ContainsLayer(LayerMask, int)
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_LayerMask_System_Int32_
+  commentId: M:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,System.Int32)
+  name.vb: ContainsLayer(LayerMask, Integer)
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, int)
+  fullName.vb: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, Integer)
+  nameWithType: LayerMaskExtensions.ContainsLayer(LayerMask, int)
+  nameWithType.vb: LayerMaskExtensions.ContainsLayer(LayerMask, Integer)
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,System.String)
+  name: ContainsLayer(LayerMask, string)
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_LayerMask_System_String_
+  commentId: M:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,System.String)
+  name.vb: ContainsLayer(LayerMask, String)
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, string)
+  fullName.vb: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, String)
+  nameWithType: LayerMaskExtensions.ContainsLayer(LayerMask, string)
+  nameWithType.vb: LayerMaskExtensions.ContainsLayer(LayerMask, String)
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,Transform)
+  name: ContainsLayer(LayerMask, Transform)
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_LayerMask_Transform_
+  commentId: M:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask,Transform)
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer(LayerMask, Transform)
+  nameWithType: LayerMaskExtensions.ContainsLayer(LayerMask, Transform)
+- uid: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer*
+  name: ContainsLayer
+  href: api/Utkarsh.UnityCore.LayerMaskExtensions.html#Utkarsh_UnityCore_LayerMaskExtensions_ContainsLayer_
+  commentId: Overload:Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer
+  isSpec: "True"
+  fullName: Utkarsh.UnityCore.LayerMaskExtensions.ContainsLayer
+  nameWithType: LayerMaskExtensions.ContainsLayer
 - uid: Utkarsh.UnityCore.MathExtensions
   name: MathExtensions
   href: api/Utkarsh.UnityCore.MathExtensions.html

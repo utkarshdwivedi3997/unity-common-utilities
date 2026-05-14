@@ -21,7 +21,11 @@
           "relative_path": "api/Utkarsh.UnityCore.BinarySerializer.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.BinarySerializer",
+      "Summary": "<p sourcefile=\"api/Utkarsh.UnityCore.BinarySerializer.yml\" sourcestartlinenumber=\"1\">This class is to serialize DataContract values to Binary format!\nWe used DataContractSerializer to save files instead of simply using BinaryFormatters, because we were getting a bunch of exceptions and I don't know why.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -31,7 +35,11 @@
           "relative_path": "api/Utkarsh.UnityCore.DDOL.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.DDOL",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -41,7 +49,11 @@
           "relative_path": "api/Utkarsh.UnityCore.DataStructures.CircularQueue-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.DataStructures.CircularQueue<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -51,7 +63,11 @@
           "relative_path": "api/Utkarsh.UnityCore.DataStructures.CircularStack-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.DataStructures.CircularStack<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -61,7 +77,11 @@
           "relative_path": "api/Utkarsh.UnityCore.DataStructures.OverflowMode.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.DataStructures.OverflowMode",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -71,7 +91,25 @@
           "relative_path": "api/Utkarsh.UnityCore.DataStructures.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.DataStructures",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utkarsh.UnityCore.LayerMaskExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utkarsh.UnityCore.LayerMaskExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.LayerMaskExtensions",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -81,7 +119,11 @@
           "relative_path": "api/Utkarsh.UnityCore.MathExtensions.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.MathExtensions",
+      "Summary": "<p sourcefile=\"api/Utkarsh.UnityCore.MathExtensions.yml\" sourcestartlinenumber=\"1\">Class with useful math extension functions.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -91,7 +133,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.ArrayStackPool-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.ArrayStackPool<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -101,7 +147,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.DynamicPool-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.DynamicPool<T>",
+      "Summary": "<p sourcefile=\"api/Utkarsh.UnityCore.Pooling.DynamicPool-1.yml\" sourcestartlinenumber=\"1\">Similar to <xref href=\"Utkarsh.UnityCore.Pooling.StaticPool%601\" data-throw-if-not-resolved=\"false\"></xref>, but this can grow in capacity similar to Lists in case it runs out of items.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -111,7 +161,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.IPool-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.IPool<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -121,7 +175,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.IPooledObject-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.IPooledObject<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -131,7 +189,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.QueuePool-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.QueuePool<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -141,7 +203,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.StaticPool-1.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling.StaticPool<T>",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -151,7 +217,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Pooling.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Pooling",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -161,7 +231,11 @@
           "relative_path": "api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.ShaderUtils.ShaderUtility",
+      "Summary": "<p sourcefile=\"api/Utkarsh.UnityCore.ShaderUtils.ShaderUtility.yml\" sourcestartlinenumber=\"1\">Class that contains useful functions for writing shaders.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -171,7 +245,11 @@
           "relative_path": "api/Utkarsh.UnityCore.ShaderUtils.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.ShaderUtils",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -181,7 +259,11 @@
           "relative_path": "api/Utkarsh.UnityCore.Utilities.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore.Utilities",
+      "Summary": "<p sourcefile=\"api/Utkarsh.UnityCore.Utilities.yml\" sourcestartlinenumber=\"1\">General utilities script.\nConsists of static functions that are needed a lot</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -191,7 +273,11 @@
           "relative_path": "api/Utkarsh.UnityCore.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Utkarsh.UnityCore",
+      "Summary": null
     },
     {
       "type": "Conceptual",
@@ -207,11 +293,11 @@
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "api/toc.json"
-        },
         ".html": {
           "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
         }
       },
       "version": ""
@@ -230,11 +316,11 @@
       "type": "Toc",
       "source_relative_path": "changelog/toc.md",
       "output": {
-        ".json": {
-          "relative_path": "changelog/toc.json"
-        },
         ".html": {
           "relative_path": "changelog/toc.html"
+        },
+        ".json": {
+          "relative_path": "changelog/toc.json"
         }
       },
       "version": ""
@@ -263,11 +349,11 @@
       "type": "Toc",
       "source_relative_path": "license/toc.md",
       "output": {
-        ".json": {
-          "relative_path": "license/toc.json"
-        },
         ".html": {
           "relative_path": "license/toc.html"
+        },
+        ".json": {
+          "relative_path": "license/toc.json"
         }
       },
       "version": ""
@@ -286,11 +372,11 @@
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "toc.json"
-        },
         ".html": {
           "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
