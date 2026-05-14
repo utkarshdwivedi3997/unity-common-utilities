@@ -1,3 +1,5 @@
+# 1.0.3
+- Added LayerMaskExtensions
 # 1.0.2
 - Added Shader Utility functions that help with building compute buffers for sending data to GPU
   - `public static ComputeBuffer BuildComputeBuffer<T>(T[] data)`

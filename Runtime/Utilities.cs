@@ -224,6 +224,68 @@ namespace Utkarsh.UnityCore
         }
     }
 
+    public static class LayerMaskExtensions
+    {
+        /// <summary>
+        /// Checks if the specified layer is in this layermask
+        /// </summary>
+        /// <param name="mask">The LayerMask to check against</param>
+        /// <param name="layer">The layer to check for</param>
+        /// <returns></returns>
+        public static bool ContainsLayer(this LayerMask mask, int layer)
+        {
+            return (mask.value & (1 << layer)) != 0;
+        }
+
+        /// <summary>
+        /// Checks if the specified layer is in this layermask
+        /// </summary>
+        /// <param name="mask">The LayerMask to check against</param>
+        /// <param name="layerName">The name of the layer to check for</param>
+        /// <returns></returns>
+        public static bool ContainsLayer(this LayerMask mask, string layerName)
+        {
+            int layer = LayerMask.NameToLayer(layerName);
+            return (mask.value & (1 << layer)) != 0;
+        }
+
+        /// <summary>
+        /// Checks if the specified GameObject's layer is in this layermask
+        /// </summary>
+        /// <param name="mask">The LayerMask to check against</param>
+        /// <param name="GO">The GameObject whose layer to check for</param>
+        /// <returns></returns>
+        public static bool ContainsLayer(this LayerMask mask, GameObject GO)
+        {
+            int layer = GO.layer;
+            return (mask.value & (1 << layer)) != 0;
+        }
+
+        /// <summary>
+        /// Checks if the specified Transform's GameObject's layer is in this layermask
+        /// </summary>
+        /// <param name="mask">The LayerMask to check against</param>
+        /// <param name="transform">The Transform whose GameObject's layer to check for</param>
+        /// <returns></returns>
+        public static bool ContainsLayer(this LayerMask mask, Transform transform)
+        {
+            int layer = transform.gameObject.layer;
+            return (mask.value & (1 << layer)) != 0;
+        }
+
+        /// <summary>
+        /// Checks if the specified Collider's GameObject's layer is in this layermask
+        /// </summary>
+        /// <param name="mask">The LayerMask to check against</param>
+        /// <param name="collider"></param>
+        /// <returns></returns>
+        public static bool ContainsLayer(this LayerMask mask, Collider collider)
+        {
+            int layer = collider.gameObject.layer;
+            return (mask.value & (1 << layer)) != 0;
+        }
+    }
+    
     /// <summary>
     /// This class is to serialize DataContract values to Binary format!
     /// We used DataContractSerializer to save files instead of simply using BinaryFormatters, because we were getting a bunch of exceptions and I don't know why.
